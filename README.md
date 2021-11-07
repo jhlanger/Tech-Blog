@@ -17,7 +17,7 @@ This is a CMS-style blog site that will allow users to post articles, blog posts
 *Dotenv
 
 ## Website
-https://jhlanger.github.io/weather/
+https://murmuring-temple-17090.herokuapp.com/
 
 ## Contribution
 Made by Jonathon Langerman
