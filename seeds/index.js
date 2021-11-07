@@ -1,3 +1,6 @@
+// heroku addons:create jawsdb
+//heroku run node seeds/index.js
+
 const seedUsers = require('./user-seeds');
 const seedPosts = require('./post-seeds');
 const seedComments = require('./comment-seeds');
